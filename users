@@ -1,0 +1,12 @@
+c00065  Cleartext-Password := "bgiqaktp"
+        Service-Type = Framed-User,
+        Framed-Protocol = PPP,
+        Framed-IP-Address = 185.150.64.77,
+        Framed-IP-Netmask = 255.255.255.0,
+        Framed-Routing = Broadcast-Listen,
+        Framed-Filter-Id = "std.ppp",
+        Framed-MTU = 1500,
+        WISPr-Bandwidth-Max-Down = 30720,
+        WISPr-Bandwidth-Max-Up = 10240,
+        Framed-Compression = Van-Jacobsen-TCP-IP
+
